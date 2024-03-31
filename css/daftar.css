@@ -1,0 +1,43 @@
+div h2 {
+    text-align: center;
+}
+
+.kotak {
+    display: flex;
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+}
+
+.daftar {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 5px 8px 9px 2px rgba(80, 60, 60, 0.5);
+    padding: 36px 20px;
+    margin: 20px;
+    max-width:100%;
+}
+
+.daftar_input {
+    border-radius: 8px;
+    min-width: 50rem;
+    margin: 10px;
+    padding: 9px;
+}
+
+.daftar_button {
+    border: #7E6363;
+    background-color: #503C3C;
+    color: antiquewhite;
+    border-radius: 18px;
+    cursor: pointer;
+    margin: 10px;
+    padding: 9px;
+}
+
+.daftar_button:hover {
+    background-color: #7E6363;
+    color: antiquewhite;
+    transition: ease 0.3s;
+}

@@ -1,0 +1,50 @@
+container h2{
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+    color: #3E3232;
+}
+
+table {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 3.5rem;
+}
+
+thead {
+    background-color: #503C3C;
+    color: antiquewhite;
+}
+
+th, td {
+    border: 1px solid #7E6363;
+    text-align: center;
+    padding: 8px;
+}
+
+td:hover {
+    background-color: #7E6363;
+    color: antiquewhite;
+    transition: ease 0.3s;
+}
+
+.back {
+    justify-content: flex-end;
+    display: flex;
+    margin: 1rem;
+}
+
+.back a {
+    border: #7E6363 solid 2pt;
+    background-color: #503C3C;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.back a:hover {
+    background-color: #7E6363;
+    border-radius: 18px;
+    transition: ease 0.3s;
+}
