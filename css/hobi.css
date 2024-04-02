@@ -3,6 +3,10 @@ container h2 {
     margin-top: 5rem;
 }
 
+body {
+    overflow: hidden;
+}
+
 .hobi {
     display: flex;
     flex-direction: row;
@@ -20,7 +24,7 @@ container h2 {
     border-radius: 10px;
     box-shadow: 5px 8px 9px 2px rgba(80, 60, 60, 0.5);
     padding: 50px 70px;
-    margin: 5rem 3rem 5rem;
+    margin: 5rem 3rem 5.1rem;
     max-width:20%;
 }
 

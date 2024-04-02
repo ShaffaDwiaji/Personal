@@ -6,10 +6,11 @@ container h2{
 }
 
 table {
+    align-items: center;
     display: table;
-    width: 100%;
+    width: 94%;
     border-collapse: collapse;
-    margin-bottom: 3.5rem;
+    margin: 3.5rem 3.5rem 7.3rem 3.5rem;
 }
 
 thead {
