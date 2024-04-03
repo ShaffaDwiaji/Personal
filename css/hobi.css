@@ -3,10 +3,6 @@ container h2 {
     margin-top: 5rem;
 }
 
-body {
-    overflow: hidden;
-}
-
 .hobi {
     display: flex;
     flex-direction: row;
